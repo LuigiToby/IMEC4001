@@ -6,7 +6,7 @@ import nbformat as nbf
 
 
 ROOT = Path(__file__).resolve().parents[1]
-OUTPUT = ROOT / "soluciones" / "LuisARodriguezA_tarea8.ipynb"
+OUTPUT = ROOT / "soluciones" / "LuisARodriguezA_tarea8_estudio.ipynb"
 cells = []
 
 
